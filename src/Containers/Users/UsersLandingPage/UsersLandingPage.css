@@ -1,0 +1,18 @@
+.card {
+  width: 60%;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.modal-button {
+  width: 20%;
+}
+
+.user-buttons {
+  display: flex;
+  justify-content: space-around;
+}

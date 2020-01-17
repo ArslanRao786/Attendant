@@ -1,0 +1,26 @@
+.settings-container {
+  margin-top: 2%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.settings-list-container {
+  width: 60%;
+  background: aliceblue;
+}
+
+.button-container {
+  margin: 20px 0px 0px 50%;
+}
+
+span.ant-input-search.ant-input-affix-wrapper {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.office-timing {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}

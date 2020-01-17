@@ -1,0 +1,29 @@
+.dashboard-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 1%;
+}
+
+.layout {
+  width: 60%;
+  background: aliceblue;
+  padding: 1%;
+}
+
+.dashboard-card-container {
+  margin-top: 20px;
+}
+
+.dashboard-widgets {
+  display: flex;
+  justify-content: space-between;
+}
+
+.over-all-stats-list {
+  display: grid;
+  grid-template-columns: 40% 30% 40%;
+  height: 50px;
+  align-items: center;
+  margin-top: 20px;
+}

@@ -1,0 +1,9 @@
+.NavBar {
+  widows: 100%;
+  background: #5acba1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  font-family: serif;
+}
